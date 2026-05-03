@@ -24,6 +24,9 @@ Frontend: React
 Styling: Tailwind CSS
 Animations: Framer Motion
 Icons: Lucide
+
+
+
 📁 Project Structure
 e-learning-platform/
 │
@@ -40,8 +43,12 @@ e-learning-platform/
 │
 ├── package.json
 └── README.md
+
+
 ⚙️ Installation & Setup
+
 Clone the repository
+
 git clone https://github.com/your-username/e-learning-platform.git
 Navigate to the project folder
 cd e-learning-platform
